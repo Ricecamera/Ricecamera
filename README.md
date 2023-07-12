@@ -2,7 +2,7 @@
 - 👀 I’m interested in artificial intelligence, machine learning, and immersive technologies.
 - 🌱 I’m currently learning everything I could learn.
 - 💞️ I’m looking to collaborate on challenging projects.
-- 📫 My email: sahatsarin07@gmail.com, My Linkedin:Sahatsarin Pawanna
+- 📫 My email: sahatsarin.pawanna@gmail.com, My Linkedin:Sahatsarin Pawanna
 
 <!---
 Ricecamera/Ricecamera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
